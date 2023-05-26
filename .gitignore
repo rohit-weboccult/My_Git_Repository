@@ -1,0 +1,8 @@
+#where there is mylogs.log is present only ignore that file not that one is inside any folder..
+/mylogs.log  
+
+#ignore .log file wherever it is present
+*.log
+
+#to ignore any folder/directory
+ignore/
